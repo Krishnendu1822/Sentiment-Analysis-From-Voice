@@ -1,2 +1,2 @@
 # Sentiment-Analysis-From-Voice
-Generating  a spectogram for each audio file and listen it .
+It is  our final year project, where we built it using CNN.
